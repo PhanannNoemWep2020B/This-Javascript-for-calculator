@@ -1,0 +1,16 @@
+.container{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 90px;
+    border: 2px solid teal;
+    display: flex;
+    padding: 20px;
+}
+.col-3{
+    width: 23%;
+    padding: 30px;
+    background: orange;
+    margin-left: 30px;
+    color: aliceblue;
+    font-size: 30px;
+}
